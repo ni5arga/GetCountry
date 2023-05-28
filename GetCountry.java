@@ -1,4 +1,4 @@
-// Extension Author - Nisarga Adhikary (adhikarynisarga17@gmail.com)
+// Extension Author - Nisarga Adhikary (hello@nisarga.me)
 
 package xyz.nisarga.GetCountry; // package name
 
